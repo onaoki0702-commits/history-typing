@@ -1,0 +1,14 @@
+{
+  "version": "2.5.1",
+  "staticHTTPSubdirectory": true,
+  "imagesLoaded": 60,
+  "fourEraNormalAndBossInput": true,
+  "webAudioRunning": true,
+  "oldOriginBackupExportAndNewOriginImport": true,
+  "saveReload": true,
+  "externalRuntimeRequests": [],
+  "pageErrors": [],
+  "httpErrors": [],
+  "gameLogicUnchanged": true,
+  "notes": "Chromium at local HTTP server under /site/; actual keyboard and import/export button events. Each era sampled one normal enemy and one boss answer. No production hosting or school filter test performed."
+}
